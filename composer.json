@@ -1,0 +1,10 @@
+{
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/http": "^0.8.4",
+        "react/child-process": "^0.6.1"
+    },
+     "autoload": {
+	    "psr-4": { "Xbin\\": ["src/"] }
+    }
+}
